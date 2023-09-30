@@ -10,6 +10,9 @@ $ git clone https://github.com/MR-X-HADI/MULTI
 ```
 ##   Mulai Tols:)
 ```
+$ pip install requests
+$ pip install bs4
+$ pip install rich
 $ ls
 $ cd MULTI
 $ python Cr4ck.py
