@@ -6,11 +6,12 @@ Multi Crack Facebook [FREE]
 $ pkg update && upgrade  
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/MR-X-HADI/Cr4ck.py
+$ git clone https://github.com/MR-X-HADI/MULTI
 ```
 ##   Mulai Tols:)
 ```
-$ cd Cr4ck
+$ ls
+$ cd MULTI
 $ python Cr4ck.py
 ```
 ## Cukup kasih bintang ✨ 
