@@ -1,3 +1,4 @@
+# ✭ FREE CRACK
 <p align="left">
   <img src="https://img.shields.io/badge/Author-𝙃𝙖𝙙𝙞.𝙭𝙙-blue?style=flat-square">
 
