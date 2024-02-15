@@ -15,6 +15,13 @@ $ pkg install python
 $ pkg install git
 $ git clone https://github.com/MR-X-HADI/MULTI
 ```
+##   update scriptnya:)
+```
+$ cd MULTI
+$ git pull
+$ python Cr4ck.py
+```
+
 ##   Mulai Tols:)
 ```
 $ pip install requests
